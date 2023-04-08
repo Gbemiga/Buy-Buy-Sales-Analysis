@@ -31,3 +31,5 @@ Buy Buy.sql: It contains all the project SQL queries. It provides to all the bus
 1. I was provided an excel CSV file which I imported to Pgadmin environment after creating a table with the same columns and data type as the excel file in pgadmin.
 
 2. Then I exported the output of some queries as csv files and visualized using pivot charts.
+
+
