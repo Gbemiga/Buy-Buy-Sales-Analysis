@@ -32,4 +32,6 @@ Buy Buy.sql: It contains all the project SQL queries. It provides to all the bus
 
 2. Then I exported the output of some queries as csv files and visualized using pivot charts.
 
+![](2nd quarter profit.jpg)
+
 
