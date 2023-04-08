@@ -6,7 +6,7 @@ In this project, I analyzed and explored dataset with SQL using Postgresql Serve
 
 ## Overview of the Project
 
-Github: This contains all the images used in this project
+BuyBuy Images: This contains all the images used in this project
 
 Read.me: This is the introductry part of the project. it provides all the information of the project.
 
