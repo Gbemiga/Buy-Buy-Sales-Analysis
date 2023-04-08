@@ -25,3 +25,9 @@ Buy Buy.sql: It contains all the project SQL queries. It provides to all the bus
 7. Rank all product categories sold by Buybuy, from least amount to the most amount of all-time revenue generated.
 8. What are the Top-2 product categories offered by Buybuy with an all-time high number of units sold?
 9. What are the Top 10 highest-grossing products sold by BuyBuy based on all-time profits?
+
+## Steps Taken to Provide Answers to the above Questions 
+
+1. I was provided an excel CSV file which I imported to Pgadmin environment after creating a table with the same columns and data type as the excel file in pgadmin.
+
+2. Then I exported the output of some queries as csv files and visualized using pivot charts.
