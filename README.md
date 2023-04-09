@@ -6,7 +6,7 @@ In this project, I analyzed and explored dataset with SQL using Postgresql Serve
 
 BuyBuy Images: This contains all the images used in this project
 
-Read.me: This is the introductry part of the project. it provides all the information of the project.
+Read.me: This provides all the information about the project.
 
 Buy Buy sales data.csv: This is the dataset for the project. This should be imported directly to pgadmin 4 environment.
 
