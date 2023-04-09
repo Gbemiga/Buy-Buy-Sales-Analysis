@@ -28,7 +28,7 @@ Buy Buy.sql: It contains all the project SQL queries. It provides to all the bus
 
 1. I was provided an excel CSV file which I imported to Pgadmin environment after creating a table with the same columns and data type as the excel file in pgadmin.
 
-2. Then I exported the output of some queries as csv files and visualized using pivot charts.
+2. Then I exported the output of some queries as csv files, summarized the tables using pivot table and then visualized using the relevant pivot charts.
 
 ## Excel Dashboard Report
 Here is the Dashboard report that i built using Microsoft Excel to further visualize the insights and trends derived from the analysis.
