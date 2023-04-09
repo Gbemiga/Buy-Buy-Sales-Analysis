@@ -30,6 +30,9 @@ Buy Buy.sql: It contains all the project SQL queries. It provides to all the bus
 
 2. Then I exported the output of some queries as csv files and visualized using pivot charts.
 
+## Excel Dashboard Report
+Here is the Dashboard report that i built using Microsoft Excel to further visualize the insights and trends derived from the analysis.
+
 ![Dashboard](https://user-images.githubusercontent.com/109863083/230775681-3fa3b4d4-98b6-4138-87da-7e36795a16b9.jpg)
 
 
