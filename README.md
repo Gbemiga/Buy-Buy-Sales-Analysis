@@ -39,6 +39,7 @@ Here is the Dashboard report that i built using Microsoft Excel to further visua
 
 1. The analysis shows that United States generated the highest profit from 2013 to 2016 while France generated the least profit all through the years.
 2. It was discovered that BuyBuy profit throughout the second quarter of each year is not stable, so there is need to brace up in 2017 in oreder to make more profit than 2016.
-3. It was also discovered that out of the three product categories available, accessories and clothes are sold the most with over 1054162 and 254743 quantities sold respectiveli
+3. It was also discovered that out of the three product categories available, accessories and clothes are sold the most with over 1054162 and 254743 quantities sold respectively
+4. Road bikes sold the most in the product subcategory section with over $10million profit generated in the space of 6 years.
 
 
