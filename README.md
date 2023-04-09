@@ -35,4 +35,10 @@ Here is the Dashboard report that i built using Microsoft Excel to further visua
 
 ![Dashboard](https://user-images.githubusercontent.com/109863083/230775681-3fa3b4d4-98b6-4138-87da-7e36795a16b9.jpg)
 
+## Key Findings
+
+1. The analysis shows that United States generated the highest profit from 2013 to 2016 while France generated the least profit all through the years.
+2. It was discovered that BuyBuy profit throughout the second quarter of each year is not stable, so there is need to brace up in 2017 in oreder to make more profit than 2016.
+3. It was also discovered that out of the three product categories available, accessories and clothes are sold the most with over 1054162 and 254743 quantities sold respectiveli
+
 
